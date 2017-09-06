@@ -1,0 +1,6 @@
+framework module Pods_addMobDemo {
+  umbrella header "Pods-addMobDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
